@@ -3,13 +3,14 @@
 ## Usage
 
 #### Run the benchmarks
-
 ```bash
 # ./bench
 ```
+```cmd
+> ./bench.cmd
+```
 
 #### Configuration
-
 - You can update and create new benchmarks in [config.php](config.php)
 - Decided which one you want to run in [schedule.php](schedule.php)
 
